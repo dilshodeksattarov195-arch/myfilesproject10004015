@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productencrypt",
+        "uuid": 30257040,
+        "checksum": "wpeopc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
